@@ -1,0 +1,12 @@
+body{
+	background-color: none;
+	
+	
+}
+#cajas{
+	background-color:lightskyblue;
+	width: 150px;
+	height:70px;
+	border: 1px dotted black;
+	margin: 2px;
+}

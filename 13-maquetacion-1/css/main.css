@@ -1,0 +1,25 @@
+body{
+	background-color: pink;
+
+}
+.radius{
+	border-radius: 300px;
+	width: 150px;
+	height: 150px;
+	border: dotted;
+
+}
+.main{
+	width:150px ;
+	height: 150px;
+	border: dashed;
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+p{
+	float: left;
+}

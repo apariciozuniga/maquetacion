@@ -1,0 +1,28 @@
+body{
+	background-color: purple;
+}
+
+.ult{
+	
+	height:250px ;
+	width:250px ;
+	float: left;
+	margin: 10px;
+	border: dotted white;
+}
+
+.unik{
+	
+	border: ridge white ;
+	float: left;
+    margin: 0 0 10px 10px;
+}
+
+.icons{
+	border:ridge white; 
+	border-radius: 25px;
+}
+.parraf{
+	font-family: 'Muli', sans-serif;
+	text-align: justify;
+}
